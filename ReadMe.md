@@ -4,7 +4,9 @@
 <br><br>
 "If you want to purchase the original source code for debugging or customization, it's available for `70,000 MMK to 100,000 MMK.`"
 
-`View More Portfolios`
+```
+View More Portfolios
+```
 
 [*portfolio1*](https://github.com/hninthuzar/portfolio1) 
 [*portfolio1-ui*](https://hninthuzar.github.io/portfolio1) 
